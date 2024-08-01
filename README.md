@@ -43,8 +43,8 @@
 ### 📫 Get in Touch
 
 <div align="center">
-  <a href="mailto:reekithak@gmail.com">
-    <img src="https://img.shields.io/badge/Email-reeithak@gmail.com-blue?style=for-the-badge&logo=gmail" alt="Email Badge" />
+  <a href="mailto:akhilsanker.official@gmail.com">
+    <img src="https://img.shields.io/badge/Email-akhilsanker.official@gmail.com-blue?style=for-the-badge&logo=gmail" alt="Email Badge" />
   </a>
   <a href="https://twitter.com/akhilsank_er" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-Follow-blue?style=for-the-badge&logo=twitter" alt="Twitter Link" />
