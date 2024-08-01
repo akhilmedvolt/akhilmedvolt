@@ -1,5 +1,4 @@
-<h1 align="center">Hi, I'm Akhil Sanker</h1>
-<h3 align="center">Senior Software Engineer at Bajaj Finance Ltd</h3>
+<h1 align="center">Senior Software Engineer at Bajaj Finance Ltd</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=akhilmedvolt" alt="Profile Views" />
