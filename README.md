@@ -3,9 +3,6 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=akhilmedvolt" alt="Profile Views" />
 </p>
-
----
-
 <p align="center">
   <a href="https://akhilsanker.in/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-Visit%20My%20Site-blue?style=for-the-badge&logo=internet-explorer" alt="Portfolio Link" />
