@@ -1,18 +1,26 @@
-<h1 align="center"> Hi there 👋, I'm Akhil Sanker, :) </h1>
-<h3 align="center">Senior Software Engineer, Bajaj Finance Ltd</h3>
+<h1 align="center">Hi there 👋, I'm Akhil Sanker</h1>
+<h3 align="center">Senior Software Engineer at Bajaj Finance Ltd</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=akhilmedvolt" alt="reekithak" /> </p>
-
-Portfolio:- [Link](https://akhilsanker.in/)
-
-- 🔭 Working on Languages: Python, C++, JS, Html-CSS, Java
-- 👯 Open for Collaborations 
-- 📫 Reach me on : [LinkedIn](https://www.linkedin.com/in/akhilsanker/) , reekithak@gmail.com  , [Instagram](https://www.instagram.com/akhilsank.er/)
-- 
 <p align="center">
-<a href="https://dev.to/reekithak" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="reekithak" height="30" width="30" /></a>
-<a href="https://twitter.com/akhilsank_er" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="AkhilSanker" height="30" width="30" /></a>
-<a href="https://www.linkedin.com/in/akhilsanker/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="AkhilSanker" height="30" width="30" /></a>
-<a href="https://kaggle.com/reekithak" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg" alt="AkhilSanker" height="30" width="30" /></a>
-<a href="https://instagram.com/akhilsank.er" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="AkhilSanker" height="30" width="30" /></a>
+  <img src="https://komarev.com/ghpvc/?username=akhilmedvolt" alt="Profile Views" />
+</p>
+
+<p align="center">
+  <a href="https://akhilsanker.in/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-Visit%20My%20Site-blue" alt="Portfolio Link" />
+  </a>
+  <a href="https://www.linkedin.com/in/akhilsanker/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue" alt="LinkedIn Link" />
+  </a>
+  <a href="https://www.instagram.com/akhilsank.er/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-Follow-blueviolet" alt="Instagram Link" />
+  </a>
+</p>
+
+<p align="center">
+  <strong>Languages I'm Working With:</strong> Python, C++, JavaScript, HTML/CSS, Java
+</p>
+
+<p align="center">
+  <strong>👯 Open to Collaborations:</strong> Feel free to reach out!
 </p>
