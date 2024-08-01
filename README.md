@@ -9,19 +9,19 @@
 
 <p align="center">
   <a href="https://akhilsanker.in/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-%F0%9F%94%97-blue?style=for-the-badge" alt="Portfolio Link" />
+    <img src="https://img.shields.io/badge/Portfolio-Visit%20My%20Site-blue?style=for-the-badge&logo=internet-explorer" alt="Portfolio Link" />
   </a>
   <a href="https://www.linkedin.com/in/akhilsanker/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%E2%9D%A4-blue?style=for-the-badge" alt="LinkedIn Link" />
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn Link" />
   </a>
   <a href="https://www.instagram.com/akhilsank.er/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-%E2%99%A5-blueviolet?style=for-the-badge" alt="Instagram Link" />
+    <img src="https://img.shields.io/badge/Instagram-Follow-blueviolet?style=for-the-badge&logo=instagram" alt="Instagram Link" />
   </a>
 </p>
 
 ---
 
-### 🔧 Tech Stack
+### 🔧 Languages
 
 <div align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python Badge" />
@@ -39,6 +39,22 @@
 <p align="center">
   I am always open to exciting opportunities and collaborations! Feel free to <a href="mailto:reekithak@gmail.com">contact me</a> or connect with me on any platform.
 </p>
+
+---
+
+### 📫 Get in Touch
+
+<div align="center">
+  <a href="mailto:reekithak@gmail.com">
+    <img src="https://img.shields.io/badge/Email-reeithak@gmail.com-blue?style=for-the-badge&logo=gmail" alt="Email Badge" />
+  </a>
+  <a href="https://twitter.com/akhilsank_er" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-Follow-blue?style=for-the-badge&logo=twitter" alt="Twitter Link" />
+  </a>
+  <a href="https://kaggle.com/reekithak" target="_blank">
+    <img src="https://img.shields.io/badge/Kaggle-Profile-blue?style=for-the-badge&logo=kaggle" alt="Kaggle Link" />
+  </a>
+</div>
 
 ---
 
