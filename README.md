@@ -12,19 +12,8 @@ Portfolio:- [Link](https://akhilsanker.in/)
 - 📫 Reach me on : [LinkedIn](https://www.linkedin.com/in/akhilsanker/) , reekithak@gmail.com  , [Instagram](https://www.instagram.com/akhilsank.er/)
 
 ![Akhil Sanker's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhilmedvolt&theme=dark&show_icons=true&count_private=true)
-
-<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=reekithak&count_private=true&theme=dark)" alt="reekithak" /></p>
  -->
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akhilmedvolt&layout=compact&theme=dark)](https://github.com/akhilmedvolt/github-readme-stats)
-
- 
-<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=reekithak&layout=compact) -->
-<!-- [![Akhil Sanker's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=reekithak)](https://github.com/reekithak/github-readme-stats)
- -->
-
-<!-- ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=reekithak&theme=dark) -->
-
-
 
 <p align="center">
 <a href="https://dev.to/reekithak" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="reekithak" height="30" width="30" /></a>
