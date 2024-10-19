@@ -1,4 +1,4 @@
-<h1 align="center">Senior Software Engineer at Bajaj Finance Ltd.</h3>
+<h1 align="center">Software Engineer 2 at Bajaj Finance Ltd.</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=akhilmedvolt" alt="Profile Views" />
