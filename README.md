@@ -1,5 +1,5 @@
 # Akhil Sanker
-## Software Engineer II at Bajaj Finance Ltd.
+## Software Engineer 2 / SSE-1
 
 ![Profile Views](https://komarev.com/ghpvc/?username=akhilmedvolt&style=flat-square&color=blue)
 
